@@ -1,0 +1,25 @@
+.tableHeader {
+  display: flex;
+  align-items: center;
+  border: 2px solid black;
+}
+
+.tableHeader > div {
+  font-weight: bold;
+}
+
+.albumId {
+  min-width: 60px;
+}
+
+.id {
+  min-width: 60px;
+}
+
+.title {
+  flex-basis: 75%;
+}
+
+.image {
+  flex-basis: 150px;
+}
