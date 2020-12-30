@@ -1,5 +1,7 @@
 # Data table
 
+<a href="https://sadanandpai.github.io/task_30dec/">Live Demo</a>
+
 ## Technologies
 - React
 - Redux Toolkit
